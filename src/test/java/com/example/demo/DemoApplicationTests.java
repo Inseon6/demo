@@ -13,7 +13,7 @@ class DemoApplicationTests {
 	}
 
 	@Test
-	void fail_test() {
+	void failTest() {
 		assertTrue(false);
 	}
 
